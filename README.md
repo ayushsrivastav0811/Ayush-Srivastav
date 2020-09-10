@@ -9,7 +9,11 @@
 <a href="https://www.instagram.com/ayush_s_404/" target="_blank" title="Instagram"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/instagram.svg"></i></a>
 </p>
 
-<ul align="center">
-  <li> 💬 Ask me about <b> Reactjs, C++, C etc</b></li>
-</ul>
-
+<p align='center'>
+ 💬 student, self-taught coder
+📙 studies at Raj kumar goel institute of technology
+🌱 learning Django. REST. VueJS . React
+🔭 intrested in web-development anything tech
+🖥 develops webapps. front-end works.
+🧩 likes cricket. listening song and obviously coding<br>
+</p>
