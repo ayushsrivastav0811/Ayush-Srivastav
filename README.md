@@ -10,10 +10,10 @@
 </p>
 
 <p align='center'>
- 💬 student, self-taught coder
-📙 studies at Raj kumar goel institute of technology
-🌱 learning Django. REST. VueJS . React
-🔭 intrested in web-development anything tech
-🖥 develops webapps. front-end works.
+ 💬 student, self-taught coder<br>
+📙 studies at Raj kumar goel institute of technology<br>
+🌱 learning Django. REST. VueJS . React<br>
+🔭 intrested in web-development anything tech<br>
+🖥 develops webapps. front-end works.<br>
 🧩 likes cricket. listening song and obviously coding<br>
 </p>
