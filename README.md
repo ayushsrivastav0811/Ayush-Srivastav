@@ -11,7 +11,6 @@
 
 <p align='center'>
  💬 student, self-taught coder<br>
-📙 studies at Raj kumar goel institute of technology<br>
 🌱 learning Django. REST. VueJS . React<br>
 🔭 intrested in web-development anything tech<br>
 🖥 develops webapps. front-end works.<br>
